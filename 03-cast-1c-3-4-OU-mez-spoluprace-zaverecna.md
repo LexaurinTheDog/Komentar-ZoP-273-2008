@@ -1109,6 +1109,13 @@ Omezení: § 94 platí jen pro **subjekty uvedené v § 89** (Interpol, Europol,
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1083/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9E442C7721AD28BBC12589C500184289?openDocument) — 10. 3. 2023, kat. A
+  > „Skutečnost, že vlastník domu, který nebyl zamýšleným adresátem výkonu veřejné moci, ani se jinak trestního řízení neúčastnil v postavení jeho subjektu, přenechal dům do užívání jiné osobě, vůči níž byl následně veden oprávněný a přiměřený služební zákrok Policie České republiky (domovní prohlídka), nepředstavuje liberační důvod podle § 95 odst. 1 věta za středníkem zákona o Policii České republiky, na základě kterého by se mohl stát zprostit odpovědnosti za škodu způsobenou při domovní prohlídce vlastníkovi domu"
+- *NS* [30 Cdo 4066/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/848B8179AC26328BC12585A500160BE4?openDocument) — 29. 4. 2020, kat. A
+  > „Odpovědnost státu za újmu způsobenou činností policejního orgánu coby orgánu činného v trestním řízení se řídí ustanovením § 95 odst. 1 zákona č. 273/2008 Sb., o Policii České republiky, jen tehdy, je-li újma způsobena osobě, která není zamýšleným adresátem výkonu veřejné moci, ani se jinak trestního řízení neúčastní v postavení jeho subjektu v ostatních případech se odpovědnost státu posuzuje podle zákona č. 82/1998 Sb"
+
 #### Specialita vůči OdpŠk a ObčZ
 
 § 95 je **speciální úpravou** odpovědnosti státu za škodu způsobenou v souvislosti s činností policie. Vztahuje se k zákonu č. 82/1998 Sb., o odpovědnosti za škodu způsobenou při výkonu veřejné moci (dále „**OdpŠk**"), a k občanskému zákoníku (zákon č. 89/2012 Sb., dále „**ObčZ**") jako *lex specialis*: tam, kde § 95 mlčí, se subsidiárně použije OdpŠk či ObčZ.
@@ -1949,7 +1956,4 @@ Tato dynamika reflektuje **postupnou europeizaci** policejní spolupráce a ochr
 3. **Při použití cizího policisty na území ČR:** nejprve titul (mezinárodní smlouva podle § 92 odst. 1, dvojí souhlas podle § 92 odst. 2, hot pursuit podle § 92 odst. 5); pak omezení (§ 92 odst. 5 písm. a) až g)); konečně odpovědnost a velení (§ 92 odst. 6 a 7).
 4. **Při náhradě škody:** stát zásadně odpovídá (§ 95 odst. 1), liberuje se jen u protiprávně vyvolaného přiměřeného zákroku; speciální režim pro nepřesné OÚ vůči zahraničí (§ 95 odst. 2 věta druhá — bez vzájemnosti vůči EU/Schengen).
 5. **Při použití PNR:** vždy testovat účel (§ 84b odst. 1), citlivé údaje vymazat (§ 84b odst. 2), depersonalizace po 6 měsících (§ 84b odst. 6), výmaz 3/5 let (§ 84b odst. 7), re-personalizace jen za podmínek § 84c odst. 3.
-
-
-
 

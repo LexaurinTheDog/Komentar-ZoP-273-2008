@@ -51,6 +51,11 @@ Rozlišení je relevantní pro výklad **subsidiarity oprávnění**: tam, kde m
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 4066/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/848B8179AC26328BC12585A500160BE4?openDocument) — 29. 4. 2020, kat. A
+  > „Odpovědnost státu za újmu způsobenou činností policejního orgánu coby orgánu činného v trestním řízení se řídí ustanovením § 95 odst. 1 zákona č. 273/2008 Sb., o Policii České republiky, jen tehdy, je-li újma způsobena osobě, která není zamýšleným adresátem výkonu veřejné moci, ani se jinak trestního řízení neúčastní v postavení jeho subjektu v ostatních případech se odpovědnost státu posuzuje podle zákona č. 82/1998 Sb"
+
 #### Hodnotová klauzule „policie slouží veřejnosti"
 
 Úvodní věta „**Policie slouží veřejnosti**" není pouhým proklamativním obratem — má normativní význam jako **interpretační vodítko**. Vyjadřuje **paradigmatický posun** od pojetí policie jako „mocenského orgánu státu" (typického pro éru zákona č. 283/1991 Sb.) k pojetí policie jako **služby občanům** (model „police as a service"). Tento posun se promítá:
