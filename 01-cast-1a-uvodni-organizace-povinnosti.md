@@ -1370,9 +1370,9 @@ Pokud byla věc zajištěna, ale nelze ji vrátit (vlastník neznámý), aplikuj
 
 ### § 39 — Rušení provozu elektronických komunikací
 
-> **§ 39 — Rušení provozu elektronických komunikací**
+> **§ 39**
 >
-> *(1) Policie může za účelem odstranění bezprostředního ohrožení života nebo zdraví osob nebo za účelem odstranění bezprostředně hrozící škody velkého rozsahu na majetku, případně při zajišťování bezpečnosti chráněných objektů, prostorů a osob, rušit v nezbytné míře a po nezbytnou dobu*
+> *(1) Policie může za účelem odstranění bezprostředního ohrožení života nebo zdraví osob nebo za účelem odstranění bezprostředně hrozící škody velkého rozsahu47) na majetku, případně při zajišťování bezpečnosti chráněných objektů, prostorů a osob, rušit v nezbytné míře a po nezbytnou dobu*
 >
 > *- a) provoz elektronických komunikačních zařízení a sítí,*
 >
@@ -1380,11 +1380,11 @@ Pokud byla věc zajištěna, ale nelze ji vrátit (vlastník neznámý), aplikuj
 >
 > *- c) provozování radiokomunikačních služeb.*
 >
-> *(2) Policie může provádět rušení podle odstavce 1 rovněž při výcviku, přičemž ohlásí Českému telekomunikačnímu úřadu (dále jen „úřad“), územně příslušnému operačnímu a informačnímu středisku integrovaného záchranného systému a Národnímu úřadu pro kybernetickou a informační bezpečnost zavedení rušení v přiměřené lhůtě předem. [...]*
+> *(2) Policie může provádět rušení podle odstavce 1 rovněž při výcviku, přičemž ohlásí Českému telekomunikačnímu úřadu (dále jen „úřad“), územně příslušnému operačnímu a informačnímu středisku integrovaného záchranného systému a Národnímu úřadu pro kybernetickou a informační bezpečnost zavedení rušení v přiměřené lhůtě předem. Za účelem odstranění nebo zmírnění dopadů ohlášeného rušení může úřad stanovit podmínky tohoto rušení včetně povinnosti informovat v nezbytné míře o rušení dotčené provozovatele sítí elektronických komunikací a poskytovatele služeb elektronických komunikací; to neplatí, pokud by poskytnutí informace mohlo ohrozit plnění úkolů policie. V takovém případě může úřad uložit povinnost informovat dotčené provozovatele sítí elektronických komunikací a poskytovatele služeb elektronických komunikací bez zbytečného odkladu poté, co tyto důvody pominou.*
 >
 > *(3) Policie může provádět rušení poskytování služeb elektronických komunikací rovněž za účelem odstranění bezprostředně hrozící škody způsobené*
 >
-> *- a) protiprávním zásahem do počítačové sítě vedeným proti informačnímu systému kritické informační infrastruktury nebo významnému informačnímu systému, nebo*
+> *- a) protiprávním zásahem do počítačové sítě vedeným proti informačnímu systému kritické informační infrastruktury48) nebo významnému informačnímu systému49), nebo*
 >
 > *- b) kybernetickým útokem s dopadem na větší počet počítačových systémů orgánů veřejné moci, který způsobuje nefunkčnost těchto systémů.*
 >
